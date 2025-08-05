@@ -131,10 +131,13 @@ dmypy.json
 
 # Custom additions
 # Data files (optional - remove if you want to track data)
-*.csv
+# *.csv  # Commented out to allow tracking data files
 *.json
 *.pickle
 *.pkl
+
+# Allow data folder CSV files
+!data/*.csv
 
 # Model files
 *.model

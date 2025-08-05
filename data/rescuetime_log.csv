@@ -1,0 +1,541 @@
+timestamp,app,category,duration_secs,keystrokes,mouse_moves
+2025-08-05 09:00:00,Visual Studio Code,Software Development,60,77,23
+2025-08-05 09:01:00,Excel,Business,60,77,18
+2025-08-05 09:02:00,Microsoft Word,Writing,60,67,28
+2025-08-05 09:03:00,Microsoft Word,Writing,60,43,22
+2025-08-05 09:04:00,Visual Studio Code,Software Development,60,65,21
+2025-08-05 09:05:00,Terminal,Utilities,60,44,29
+2025-08-05 09:06:00,Visual Studio Code,Software Development,60,78,40
+2025-08-05 09:07:00,Terminal,Utilities,60,51,23
+2025-08-05 09:08:00,Gmail,Email,60,36,17
+2025-08-05 09:09:00,Gmail,Email,60,52,34
+2025-08-05 09:10:00,Visual Studio Code,Software Development,60,76,29
+2025-08-05 09:11:00,Terminal,Utilities,60,35,32
+2025-08-05 09:12:00,Gmail,Email,60,66,21
+2025-08-05 09:13:00,Visual Studio Code,Software Development,60,72,22
+2025-08-05 09:14:00,Microsoft Word,Writing,60,44,18
+2025-08-05 09:15:00,Calculator,Utilities,60,70,26
+2025-08-05 09:16:00,Gmail,Email,60,43,36
+2025-08-05 09:17:00,Microsoft Word,Writing,60,68,35
+2025-08-05 09:18:00,Slack,Communication,60,40,29
+2025-08-05 09:19:00,Slack,Communication,60,73,25
+2025-08-05 09:20:00,Visual Studio Code,Software Development,60,44,16
+2025-08-05 09:21:00,Terminal,Utilities,60,47,17
+2025-08-05 09:22:00,Gmail,Email,60,43,35
+2025-08-05 09:23:00,Calculator,Utilities,60,39,23
+2025-08-05 09:24:00,Microsoft Teams,Communication,60,77,33
+2025-08-05 09:25:00,Terminal,Utilities,60,53,22
+2025-08-05 09:26:00,System Idle,Other,60,0,0
+2025-08-05 09:27:00,Microsoft Word,Writing,60,78,16
+2025-08-05 09:28:00,Twitter,Social Media,60,25,25
+2025-08-05 09:29:00,Terminal,Utilities,60,68,17
+2025-08-05 09:30:00,Calculator,Utilities,60,63,23
+2025-08-05 09:31:00,System Idle,Other,60,0,0
+2025-08-05 09:32:00,Microsoft Word,Writing,60,73,32
+2025-08-05 09:33:00,Gmail,Email,60,37,24
+2025-08-05 09:34:00,Calculator,Utilities,60,30,38
+2025-08-05 09:35:00,Instagram,Social Media,60,21,44
+2025-08-05 09:36:00,Microsoft Word,Writing,60,70,24
+2025-08-05 09:37:00,Slack,Communication,60,39,26
+2025-08-05 09:38:00,Visual Studio Code,Software Development,60,68,25
+2025-08-05 09:39:00,Microsoft Word,Writing,60,53,40
+2025-08-05 09:40:00,Visual Studio Code,Software Development,60,45,33
+2025-08-05 09:41:00,Netflix,Video,60,28,35
+2025-08-05 09:42:00,Excel,Business,60,38,36
+2025-08-05 09:43:00,Excel,Business,60,46,31
+2025-08-05 09:44:00,Games,Games,60,35,26
+2025-08-05 09:45:00,Facebook,Social Media,60,27,29
+2025-08-05 09:46:00,Gmail,Email,60,58,31
+2025-08-05 09:47:00,Slack,Communication,60,44,17
+2025-08-05 09:48:00,Slack,Communication,60,67,22
+2025-08-05 09:49:00,Visual Studio Code,Software Development,60,44,17
+2025-08-05 09:50:00,Reddit,News & Opinion,60,7,36
+2025-08-05 09:51:00,Calculator,Utilities,60,43,32
+2025-08-05 09:52:00,Calculator,Utilities,60,45,40
+2025-08-05 09:53:00,Terminal,Utilities,60,42,18
+2025-08-05 09:54:00,Terminal,Utilities,60,52,28
+2025-08-05 09:55:00,Visual Studio Code,Software Development,60,73,35
+2025-08-05 09:56:00,System Idle,Other,60,0,0
+2025-08-05 09:57:00,Gmail,Email,60,36,22
+2025-08-05 09:58:00,Calculator,Utilities,60,38,28
+2025-08-05 09:59:00,Calculator,Utilities,60,45,17
+2025-08-05 10:00:00,System Idle,Other,60,0,0
+2025-08-05 10:01:00,Visual Studio Code,Software Development,60,35,39
+2025-08-05 10:02:00,System Idle,Other,60,0,0
+2025-08-05 10:03:00,Screensaver,Other,60,0,0
+2025-08-05 10:04:00,Terminal,Utilities,60,33,20
+2025-08-05 10:05:00,Screensaver,Other,60,0,0
+2025-08-05 10:06:00,Calculator,Utilities,60,48,28
+2025-08-05 10:07:00,Screensaver,Other,60,0,0
+2025-08-05 10:08:00,Microsoft Teams,Communication,60,43,16
+2025-08-05 10:09:00,System Idle,Other,60,0,0
+2025-08-05 10:10:00,System Idle,Other,60,0,0
+2025-08-05 10:11:00,Calculator,Utilities,60,62,31
+2025-08-05 10:12:00,Microsoft Word,Writing,60,41,17
+2025-08-05 10:13:00,System Idle,Other,60,0,0
+2025-08-05 10:14:00,System Idle,Other,60,0,0
+2025-08-05 10:15:00,System Idle,Other,60,0,0
+2025-08-05 10:16:00,Screensaver,Other,60,0,0
+2025-08-05 10:17:00,Screensaver,Other,60,0,0
+2025-08-05 10:18:00,System Idle,Other,60,0,0
+2025-08-05 10:19:00,Screensaver,Other,60,0,0
+2025-08-05 10:20:00,Terminal,Utilities,60,38,36
+2025-08-05 10:21:00,Screensaver,Other,60,0,0
+2025-08-05 10:22:00,Netflix,Video,60,5,34
+2025-08-05 10:23:00,System Idle,Other,60,0,0
+2025-08-05 10:24:00,Slack,Communication,60,62,23
+2025-08-05 10:25:00,Gmail,Email,60,34,22
+2025-08-05 10:26:00,System Idle,Other,60,0,0
+2025-08-05 10:27:00,Screensaver,Other,60,0,0
+2025-08-05 10:28:00,System Idle,Other,60,0,0
+2025-08-05 10:29:00,Screensaver,Other,60,0,0
+2025-08-05 10:30:00,Netflix,Video,60,35,48
+2025-08-05 10:31:00,Microsoft Word,Writing,60,36,38
+2025-08-05 10:32:00,Microsoft Teams,Communication,60,48,34
+2025-08-05 10:33:00,Gmail,Email,60,43,36
+2025-08-05 10:34:00,Microsoft Teams,Communication,60,62,30
+2025-08-05 10:35:00,Visual Studio Code,Software Development,60,35,35
+2025-08-05 10:36:00,Microsoft Teams,Communication,60,32,15
+2025-08-05 10:37:00,Excel,Business,60,70,23
+2025-08-05 10:38:00,Calculator,Utilities,60,65,37
+2025-08-05 10:39:00,Visual Studio Code,Software Development,60,37,17
+2025-08-05 10:40:00,Twitter,Social Media,60,22,21
+2025-08-05 10:41:00,Excel,Business,60,57,19
+2025-08-05 10:42:00,Gmail,Email,60,80,16
+2025-08-05 10:43:00,Slack,Communication,60,73,22
+2025-08-05 10:44:00,Gmail,Email,60,79,32
+2025-08-05 10:45:00,Terminal,Utilities,60,69,38
+2025-08-05 10:46:00,Slack,Communication,60,40,40
+2025-08-05 10:47:00,Terminal,Utilities,60,31,20
+2025-08-05 10:48:00,Gmail,Email,60,80,28
+2025-08-05 10:49:00,Slack,Communication,60,47,20
+2025-08-05 10:50:00,Microsoft Word,Writing,60,54,16
+2025-08-05 10:51:00,Slack,Communication,60,42,29
+2025-08-05 10:52:00,Slack,Communication,60,44,15
+2025-08-05 10:53:00,Terminal,Utilities,60,51,23
+2025-08-05 10:54:00,Microsoft Teams,Communication,60,52,35
+2025-08-05 10:55:00,Gmail,Email,60,31,18
+2025-08-05 10:56:00,Microsoft Teams,Communication,60,41,33
+2025-08-05 10:57:00,Instagram,Social Media,60,6,23
+2025-08-05 10:58:00,Gmail,Email,60,76,40
+2025-08-05 10:59:00,Microsoft Word,Writing,60,54,33
+2025-08-05 11:00:00,Visual Studio Code,Software Development,60,75,28
+2025-08-05 11:01:00,Slack,Communication,60,53,28
+2025-08-05 11:02:00,Gmail,Email,60,69,25
+2025-08-05 11:03:00,Microsoft Word,Writing,60,76,24
+2025-08-05 11:04:00,Terminal,Utilities,60,50,27
+2025-08-05 11:05:00,Excel,Business,60,42,28
+2025-08-05 11:06:00,Terminal,Utilities,60,73,38
+2025-08-05 11:07:00,Instagram,Social Media,60,17,37
+2025-08-05 11:08:00,Microsoft Teams,Communication,60,48,21
+2025-08-05 11:09:00,Gmail,Email,60,59,29
+2025-08-05 11:10:00,Slack,Communication,60,62,30
+2025-08-05 11:11:00,Excel,Business,60,72,17
+2025-08-05 11:12:00,Gmail,Email,60,35,39
+2025-08-05 11:13:00,Microsoft Teams,Communication,60,44,40
+2025-08-05 11:14:00,Visual Studio Code,Software Development,60,32,22
+2025-08-05 11:15:00,System Idle,Other,60,0,0
+2025-08-05 11:16:00,Slack,Communication,60,75,37
+2025-08-05 11:17:00,Terminal,Utilities,60,45,19
+2025-08-05 11:18:00,Visual Studio Code,Software Development,60,78,39
+2025-08-05 11:19:00,Terminal,Utilities,60,44,20
+2025-08-05 11:20:00,Calculator,Utilities,60,33,32
+2025-08-05 11:21:00,Microsoft Word,Writing,60,59,19
+2025-08-05 11:22:00,Gmail,Email,60,78,29
+2025-08-05 11:23:00,Terminal,Utilities,60,65,29
+2025-08-05 11:24:00,Calculator,Utilities,60,58,23
+2025-08-05 11:25:00,Microsoft Teams,Communication,60,79,39
+2025-08-05 11:26:00,Slack,Communication,60,47,29
+2025-08-05 11:27:00,Microsoft Teams,Communication,60,45,23
+2025-08-05 11:28:00,Microsoft Word,Writing,60,38,19
+2025-08-05 11:29:00,Excel,Business,60,75,21
+2025-08-05 11:30:00,Terminal,Utilities,60,51,32
+2025-08-05 11:31:00,Visual Studio Code,Software Development,60,43,28
+2025-08-05 11:32:00,Visual Studio Code,Software Development,60,78,33
+2025-08-05 11:33:00,Visual Studio Code,Software Development,60,52,24
+2025-08-05 11:34:00,Terminal,Utilities,60,64,38
+2025-08-05 11:35:00,Slack,Communication,60,61,22
+2025-08-05 11:36:00,Calculator,Utilities,60,31,27
+2025-08-05 11:37:00,Terminal,Utilities,60,76,20
+2025-08-05 11:38:00,Excel,Business,60,69,32
+2025-08-05 11:39:00,Terminal,Utilities,60,67,33
+2025-08-05 11:40:00,Microsoft Word,Writing,60,71,28
+2025-08-05 11:41:00,Calculator,Utilities,60,41,16
+2025-08-05 11:42:00,Gmail,Email,60,43,29
+2025-08-05 11:43:00,Terminal,Utilities,60,47,39
+2025-08-05 11:44:00,Games,Games,60,13,46
+2025-08-05 11:45:00,Visual Studio Code,Software Development,60,77,32
+2025-08-05 11:46:00,Gmail,Email,60,44,35
+2025-08-05 11:47:00,Visual Studio Code,Software Development,60,78,15
+2025-08-05 11:48:00,Facebook,Social Media,60,31,20
+2025-08-05 11:49:00,Slack,Communication,60,38,30
+2025-08-05 11:50:00,Slack,Communication,60,59,37
+2025-08-05 11:51:00,Gmail,Email,60,40,34
+2025-08-05 11:52:00,Microsoft Word,Writing,60,79,20
+2025-08-05 11:53:00,Netflix,Video,60,23,20
+2025-08-05 11:54:00,Games,Games,60,17,50
+2025-08-05 11:55:00,Microsoft Word,Writing,60,67,37
+2025-08-05 11:56:00,Slack,Communication,60,36,37
+2025-08-05 11:57:00,Microsoft Word,Writing,60,80,33
+2025-08-05 11:58:00,Gmail,Email,60,64,28
+2025-08-05 11:59:00,Microsoft Word,Writing,60,62,35
+2025-08-05 12:00:00,Games,Games,60,31,35
+2025-08-05 12:01:00,Gmail,Email,60,70,29
+2025-08-05 12:02:00,Screensaver,Other,60,0,0
+2025-08-05 12:03:00,Screensaver,Other,60,35,40
+2025-08-05 12:04:00,Screensaver,Other,60,29,35
+2025-08-05 12:05:00,Instagram,Social Media,60,15,47
+2025-08-05 12:06:00,Netflix,Video,60,13,48
+2025-08-05 12:07:00,System Idle,Other,60,23,39
+2025-08-05 12:08:00,Screensaver,Other,60,0,0
+2025-08-05 12:09:00,Gmail,Email,60,41,30
+2025-08-05 12:10:00,Instagram,Social Media,60,15,28
+2025-08-05 12:11:00,Screensaver,Other,60,0,0
+2025-08-05 12:12:00,System Idle,Other,60,0,0
+2025-08-05 12:13:00,Terminal,Utilities,60,61,32
+2025-08-05 12:14:00,Screensaver,Other,60,0,0
+2025-08-05 12:15:00,Screensaver,Other,60,0,0
+2025-08-05 12:16:00,YouTube,Video,60,7,29
+2025-08-05 12:17:00,Facebook,Social Media,60,14,41
+2025-08-05 12:18:00,Screensaver,Other,60,0,0
+2025-08-05 12:19:00,Screensaver,Other,60,0,0
+2025-08-05 12:20:00,Screensaver,Other,60,15,31
+2025-08-05 12:21:00,Screensaver,Other,60,0,0
+2025-08-05 12:22:00,Facebook,Social Media,60,8,43
+2025-08-05 12:23:00,Netflix,Video,60,28,37
+2025-08-05 12:24:00,System Idle,Other,60,0,0
+2025-08-05 12:25:00,System Idle,Other,60,13,43
+2025-08-05 12:26:00,Screensaver,Other,60,0,0
+2025-08-05 12:27:00,System Idle,Other,60,0,0
+2025-08-05 12:28:00,Reddit,News & Opinion,60,10,29
+2025-08-05 12:29:00,Excel,Business,60,47,16
+2025-08-05 12:30:00,Screensaver,Other,60,0,0
+2025-08-05 12:31:00,System Idle,Other,60,0,0
+2025-08-05 12:32:00,Screensaver,Other,60,0,0
+2025-08-05 12:33:00,Visual Studio Code,Software Development,60,66,24
+2025-08-05 12:34:00,System Idle,Other,60,15,25
+2025-08-05 12:35:00,Screensaver,Other,60,0,0
+2025-08-05 12:36:00,Screensaver,Other,60,0,0
+2025-08-05 12:37:00,Microsoft Word,Writing,60,55,30
+2025-08-05 12:38:00,Visual Studio Code,Software Development,60,39,19
+2025-08-05 12:39:00,Screensaver,Other,60,0,0
+2025-08-05 12:40:00,Slack,Communication,60,37,32
+2025-08-05 12:41:00,System Idle,Other,60,0,0
+2025-08-05 12:42:00,Screensaver,Other,60,0,0
+2025-08-05 12:43:00,System Idle,Other,60,14,47
+2025-08-05 12:44:00,Screensaver,Other,60,0,0
+2025-08-05 12:45:00,YouTube,Video,60,24,50
+2025-08-05 12:46:00,System Idle,Other,60,0,0
+2025-08-05 12:47:00,Screensaver,Other,60,0,0
+2025-08-05 12:48:00,System Idle,Other,60,0,0
+2025-08-05 12:49:00,Screensaver,Other,60,7,25
+2025-08-05 12:50:00,Calculator,Utilities,60,74,34
+2025-08-05 12:51:00,YouTube,Video,60,12,29
+2025-08-05 12:52:00,Screensaver,Other,60,0,0
+2025-08-05 12:53:00,Slack,Communication,60,46,40
+2025-08-05 12:54:00,System Idle,Other,60,0,0
+2025-08-05 12:55:00,Screensaver,Other,60,12,40
+2025-08-05 12:56:00,Microsoft Teams,Communication,60,39,17
+2025-08-05 12:57:00,Microsoft Teams,Communication,60,68,38
+2025-08-05 12:58:00,Screensaver,Other,60,0,0
+2025-08-05 12:59:00,System Idle,Other,60,27,29
+2025-08-05 13:00:00,Instagram,Social Media,60,21,37
+2025-08-05 13:01:00,Microsoft Word,Writing,60,68,16
+2025-08-05 13:02:00,Screensaver,Other,60,0,0
+2025-08-05 13:03:00,YouTube,Video,60,7,27
+2025-08-05 13:04:00,System Idle,Other,60,0,0
+2025-08-05 13:05:00,Screensaver,Other,60,0,0
+2025-08-05 13:06:00,Excel,Business,60,60,31
+2025-08-05 13:07:00,Instagram,Social Media,60,10,38
+2025-08-05 13:08:00,Calculator,Utilities,60,35,30
+2025-08-05 13:09:00,Gmail,Email,60,50,36
+2025-08-05 13:10:00,Excel,Business,60,51,28
+2025-08-05 13:11:00,Instagram,Social Media,60,26,50
+2025-08-05 13:12:00,Visual Studio Code,Software Development,60,59,17
+2025-08-05 13:13:00,Gmail,Email,60,37,39
+2025-08-05 13:14:00,Visual Studio Code,Software Development,60,72,32
+2025-08-05 13:15:00,Visual Studio Code,Software Development,60,42,31
+2025-08-05 13:16:00,Calculator,Utilities,60,70,29
+2025-08-05 13:17:00,Facebook,Social Media,60,13,37
+2025-08-05 13:18:00,Microsoft Teams,Communication,60,58,37
+2025-08-05 13:19:00,Visual Studio Code,Software Development,60,70,34
+2025-08-05 13:20:00,Twitter,Social Media,60,14,37
+2025-08-05 13:21:00,Terminal,Utilities,60,35,22
+2025-08-05 13:22:00,System Idle,Other,60,0,0
+2025-08-05 13:23:00,Microsoft Word,Writing,60,71,19
+2025-08-05 13:24:00,Microsoft Teams,Communication,60,62,37
+2025-08-05 13:25:00,Calculator,Utilities,60,60,22
+2025-08-05 13:26:00,Excel,Business,60,54,21
+2025-08-05 13:27:00,System Idle,Other,60,0,0
+2025-08-05 13:28:00,Screensaver,Other,60,0,0
+2025-08-05 13:29:00,Games,Games,60,15,49
+2025-08-05 13:30:00,Instagram,Social Media,60,31,20
+2025-08-05 13:31:00,Microsoft Teams,Communication,60,67,33
+2025-08-05 13:32:00,Screensaver,Other,60,0,0
+2025-08-05 13:33:00,Screensaver,Other,60,0,0
+2025-08-05 13:34:00,Gmail,Email,60,51,32
+2025-08-05 13:35:00,Games,Games,60,19,49
+2025-08-05 13:36:00,Slack,Communication,60,74,22
+2025-08-05 13:37:00,Slack,Communication,60,79,28
+2025-08-05 13:38:00,Calculator,Utilities,60,75,40
+2025-08-05 13:39:00,Excel,Business,60,61,16
+2025-08-05 13:40:00,Gmail,Email,60,36,29
+2025-08-05 13:41:00,Calculator,Utilities,60,30,38
+2025-08-05 13:42:00,Excel,Business,60,34,30
+2025-08-05 13:43:00,Instagram,Social Media,60,15,39
+2025-08-05 13:44:00,Netflix,Video,60,32,30
+2025-08-05 13:45:00,Screensaver,Other,60,0,0
+2025-08-05 13:46:00,Screensaver,Other,60,0,0
+2025-08-05 13:47:00,System Idle,Other,60,0,0
+2025-08-05 13:48:00,Facebook,Social Media,60,25,41
+2025-08-05 13:49:00,System Idle,Other,60,0,0
+2025-08-05 13:50:00,Games,Games,60,8,44
+2025-08-05 13:51:00,Netflix,Video,60,19,25
+2025-08-05 13:52:00,YouTube,Video,60,6,30
+2025-08-05 13:53:00,Instagram,Social Media,60,16,31
+2025-08-05 13:54:00,Slack,Communication,60,63,28
+2025-08-05 13:55:00,Excel,Business,60,40,20
+2025-08-05 13:56:00,Terminal,Utilities,60,69,36
+2025-08-05 13:57:00,Excel,Business,60,44,29
+2025-08-05 13:58:00,System Idle,Other,60,13,41
+2025-08-05 13:59:00,Calculator,Utilities,60,48,36
+2025-08-05 14:00:00,Microsoft Word,Writing,60,58,26
+2025-08-05 14:01:00,Screensaver,Other,60,0,0
+2025-08-05 14:02:00,Terminal,Utilities,60,74,23
+2025-08-05 14:03:00,Microsoft Teams,Communication,60,42,27
+2025-08-05 14:04:00,Netflix,Video,60,12,32
+2025-08-05 14:05:00,Microsoft Teams,Communication,60,74,24
+2025-08-05 14:06:00,Terminal,Utilities,60,47,15
+2025-08-05 14:07:00,Visual Studio Code,Software Development,60,68,38
+2025-08-05 14:08:00,Microsoft Teams,Communication,60,79,40
+2025-08-05 14:09:00,Gmail,Email,60,44,35
+2025-08-05 14:10:00,Microsoft Teams,Communication,60,73,39
+2025-08-05 14:11:00,Excel,Business,60,70,18
+2025-08-05 14:12:00,YouTube,Video,60,14,45
+2025-08-05 14:13:00,Gmail,Email,60,76,19
+2025-08-05 14:14:00,Microsoft Teams,Communication,60,50,38
+2025-08-05 14:15:00,Slack,Communication,60,38,40
+2025-08-05 14:16:00,Gmail,Email,60,63,31
+2025-08-05 14:17:00,Twitter,Social Media,60,13,49
+2025-08-05 14:18:00,System Idle,Other,60,35,45
+2025-08-05 14:19:00,Gmail,Email,60,37,29
+2025-08-05 14:20:00,System Idle,Other,60,0,0
+2025-08-05 14:21:00,Facebook,Social Media,60,32,41
+2025-08-05 14:22:00,Terminal,Utilities,60,65,26
+2025-08-05 14:23:00,Terminal,Utilities,60,30,23
+2025-08-05 14:24:00,Calculator,Utilities,60,53,36
+2025-08-05 14:25:00,Microsoft Teams,Communication,60,67,27
+2025-08-05 14:26:00,Reddit,News & Opinion,60,8,41
+2025-08-05 14:27:00,Visual Studio Code,Software Development,60,69,32
+2025-08-05 14:28:00,Slack,Communication,60,71,17
+2025-08-05 14:29:00,Calculator,Utilities,60,74,24
+2025-08-05 14:30:00,System Idle,Other,60,0,0
+2025-08-05 14:31:00,Visual Studio Code,Software Development,60,49,30
+2025-08-05 14:32:00,Slack,Communication,60,64,19
+2025-08-05 14:33:00,Reddit,News & Opinion,60,26,50
+2025-08-05 14:34:00,Screensaver,Other,60,0,0
+2025-08-05 14:35:00,System Idle,Other,60,0,0
+2025-08-05 14:36:00,System Idle,Other,60,0,0
+2025-08-05 14:37:00,Screensaver,Other,60,0,0
+2025-08-05 14:38:00,Screensaver,Other,60,0,0
+2025-08-05 14:39:00,Gmail,Email,60,43,29
+2025-08-05 14:40:00,System Idle,Other,60,0,0
+2025-08-05 14:41:00,System Idle,Other,60,0,0
+2025-08-05 14:42:00,Screensaver,Other,60,0,0
+2025-08-05 14:43:00,Screensaver,Other,60,0,0
+2025-08-05 14:44:00,Microsoft Teams,Communication,60,42,18
+2025-08-05 14:45:00,Screensaver,Other,60,0,0
+2025-08-05 14:46:00,Slack,Communication,60,71,35
+2025-08-05 14:47:00,System Idle,Other,60,0,0
+2025-08-05 14:48:00,Gmail,Email,60,45,19
+2025-08-05 14:49:00,System Idle,Other,60,0,0
+2025-08-05 14:50:00,Slack,Communication,60,67,21
+2025-08-05 14:51:00,System Idle,Other,60,0,0
+2025-08-05 14:52:00,Twitter,Social Media,60,30,48
+2025-08-05 14:53:00,Screensaver,Other,60,0,0
+2025-08-05 14:54:00,System Idle,Other,60,0,0
+2025-08-05 14:55:00,Screensaver,Other,60,0,0
+2025-08-05 14:56:00,System Idle,Other,60,0,0
+2025-08-05 14:57:00,System Idle,Other,60,0,0
+2025-08-05 14:58:00,Gmail,Email,60,80,40
+2025-08-05 14:59:00,Reddit,News & Opinion,60,5,25
+2025-08-05 15:00:00,Excel,Business,60,77,28
+2025-08-05 15:01:00,Microsoft Word,Writing,60,60,29
+2025-08-05 15:02:00,Screensaver,Other,60,23,23
+2025-08-05 15:03:00,Slack,Communication,60,69,16
+2025-08-05 15:04:00,Microsoft Teams,Communication,60,59,35
+2025-08-05 15:05:00,System Idle,Other,60,0,0
+2025-08-05 15:06:00,Screensaver,Other,60,0,0
+2025-08-05 15:07:00,Microsoft Word,Writing,60,61,37
+2025-08-05 15:08:00,Netflix,Video,60,33,22
+2025-08-05 15:09:00,Excel,Business,60,34,19
+2025-08-05 15:10:00,Gmail,Email,60,54,34
+2025-08-05 15:11:00,Calculator,Utilities,60,62,34
+2025-08-05 15:12:00,Microsoft Word,Writing,60,71,35
+2025-08-05 15:13:00,Screensaver,Other,60,28,47
+2025-08-05 15:14:00,Calculator,Utilities,60,44,28
+2025-08-05 15:15:00,Calculator,Utilities,60,55,28
+2025-08-05 15:16:00,Gmail,Email,60,57,25
+2025-08-05 15:17:00,Gmail,Email,60,39,36
+2025-08-05 15:18:00,Netflix,Video,60,7,46
+2025-08-05 15:19:00,Terminal,Utilities,60,36,38
+2025-08-05 15:20:00,Excel,Business,60,65,16
+2025-08-05 15:21:00,Gmail,Email,60,72,18
+2025-08-05 15:22:00,Terminal,Utilities,60,76,16
+2025-08-05 15:23:00,Screensaver,Other,60,0,0
+2025-08-05 15:24:00,Slack,Communication,60,39,36
+2025-08-05 15:25:00,Microsoft Word,Writing,60,52,32
+2025-08-05 15:26:00,Microsoft Teams,Communication,60,66,22
+2025-08-05 15:27:00,Screensaver,Other,60,29,46
+2025-08-05 15:28:00,Visual Studio Code,Software Development,60,68,36
+2025-08-05 15:29:00,Instagram,Social Media,60,5,25
+2025-08-05 15:30:00,Microsoft Teams,Communication,60,51,26
+2025-08-05 15:31:00,Excel,Business,60,66,36
+2025-08-05 15:32:00,Excel,Business,60,77,35
+2025-08-05 15:33:00,System Idle,Other,60,0,0
+2025-08-05 15:34:00,Slack,Communication,60,54,28
+2025-08-05 15:35:00,Excel,Business,60,53,24
+2025-08-05 15:36:00,Microsoft Word,Writing,60,33,19
+2025-08-05 15:37:00,Visual Studio Code,Software Development,60,73,17
+2025-08-05 15:38:00,Terminal,Utilities,60,61,34
+2025-08-05 15:39:00,Microsoft Teams,Communication,60,43,39
+2025-08-05 15:40:00,Gmail,Email,60,57,18
+2025-08-05 15:41:00,Calculator,Utilities,60,63,36
+2025-08-05 15:42:00,Slack,Communication,60,55,34
+2025-08-05 15:43:00,Slack,Communication,60,49,21
+2025-08-05 15:44:00,Instagram,Social Media,60,14,30
+2025-08-05 15:45:00,Calculator,Utilities,60,77,28
+2025-08-05 15:46:00,Terminal,Utilities,60,64,37
+2025-08-05 15:47:00,Gmail,Email,60,34,27
+2025-08-05 15:48:00,YouTube,Video,60,18,20
+2025-08-05 15:49:00,Microsoft Word,Writing,60,50,33
+2025-08-05 15:50:00,Terminal,Utilities,60,75,35
+2025-08-05 15:51:00,Microsoft Word,Writing,60,55,15
+2025-08-05 15:52:00,System Idle,Other,60,0,0
+2025-08-05 15:53:00,System Idle,Other,60,31,42
+2025-08-05 15:54:00,Netflix,Video,60,18,47
+2025-08-05 15:55:00,Terminal,Utilities,60,67,27
+2025-08-05 15:56:00,Terminal,Utilities,60,49,38
+2025-08-05 15:57:00,Gmail,Email,60,79,20
+2025-08-05 15:58:00,Microsoft Word,Writing,60,63,31
+2025-08-05 15:59:00,Gmail,Email,60,52,38
+2025-08-05 16:00:00,System Idle,Other,60,0,0
+2025-08-05 16:01:00,Excel,Business,60,46,21
+2025-08-05 16:02:00,Excel,Business,60,78,39
+2025-08-05 16:03:00,Twitter,Social Media,60,35,44
+2025-08-05 16:04:00,System Idle,Other,60,29,38
+2025-08-05 16:05:00,System Idle,Other,60,26,49
+2025-08-05 16:06:00,Reddit,News & Opinion,60,32,40
+2025-08-05 16:07:00,Calculator,Utilities,60,34,30
+2025-08-05 16:08:00,Microsoft Teams,Communication,60,80,23
+2025-08-05 16:09:00,Reddit,News & Opinion,60,21,22
+2025-08-05 16:10:00,Calculator,Utilities,60,32,16
+2025-08-05 16:11:00,Microsoft Teams,Communication,60,34,35
+2025-08-05 16:12:00,Netflix,Video,60,24,39
+2025-08-05 16:13:00,Calculator,Utilities,60,67,32
+2025-08-05 16:14:00,System Idle,Other,60,0,0
+2025-08-05 16:15:00,Slack,Communication,60,50,34
+2025-08-05 16:16:00,Excel,Business,60,33,29
+2025-08-05 16:17:00,Gmail,Email,60,75,17
+2025-08-05 16:18:00,Excel,Business,60,32,22
+2025-08-05 16:19:00,System Idle,Other,60,21,36
+2025-08-05 16:20:00,Reddit,News & Opinion,60,16,49
+2025-08-05 16:21:00,Terminal,Utilities,60,79,25
+2025-08-05 16:22:00,YouTube,Video,60,30,40
+2025-08-05 16:23:00,Netflix,Video,60,15,23
+2025-08-05 16:24:00,Games,Games,60,14,28
+2025-08-05 16:25:00,Twitter,Social Media,60,15,22
+2025-08-05 16:26:00,Twitter,Social Media,60,34,31
+2025-08-05 16:27:00,Terminal,Utilities,60,38,34
+2025-08-05 16:28:00,Netflix,Video,60,14,37
+2025-08-05 16:29:00,Gmail,Email,60,38,36
+2025-08-05 16:30:00,Screensaver,Other,60,7,40
+2025-08-05 16:31:00,Screensaver,Other,60,16,20
+2025-08-05 16:32:00,Excel,Business,60,43,25
+2025-08-05 16:33:00,Screensaver,Other,60,0,0
+2025-08-05 16:34:00,Excel,Business,60,39,17
+2025-08-05 16:35:00,Microsoft Word,Writing,60,62,39
+2025-08-05 16:36:00,Visual Studio Code,Software Development,60,72,25
+2025-08-05 16:37:00,Twitter,Social Media,60,24,32
+2025-08-05 16:38:00,Excel,Business,60,74,39
+2025-08-05 16:39:00,Twitter,Social Media,60,28,34
+2025-08-05 16:40:00,Gmail,Email,60,73,38
+2025-08-05 16:41:00,Calculator,Utilities,60,69,24
+2025-08-05 16:42:00,System Idle,Other,60,12,37
+2025-08-05 16:43:00,Calculator,Utilities,60,42,26
+2025-08-05 16:44:00,System Idle,Other,60,19,44
+2025-08-05 16:45:00,Terminal,Utilities,60,62,31
+2025-08-05 16:46:00,Excel,Business,60,42,40
+2025-08-05 16:47:00,Instagram,Social Media,60,6,40
+2025-08-05 16:48:00,Gmail,Email,60,65,18
+2025-08-05 16:49:00,Screensaver,Other,60,32,23
+2025-08-05 16:50:00,Excel,Business,60,47,29
+2025-08-05 16:51:00,System Idle,Other,60,0,0
+2025-08-05 16:52:00,Netflix,Video,60,35,49
+2025-08-05 16:53:00,Calculator,Utilities,60,52,15
+2025-08-05 16:54:00,Terminal,Utilities,60,62,26
+2025-08-05 16:55:00,Microsoft Word,Writing,60,53,22
+2025-08-05 16:56:00,Microsoft Word,Writing,60,75,35
+2025-08-05 16:57:00,Excel,Business,60,38,16
+2025-08-05 16:58:00,Calculator,Utilities,60,74,19
+2025-08-05 16:59:00,System Idle,Other,60,19,39
+2025-08-05 17:00:00,Microsoft Word,Writing,60,31,23
+2025-08-05 17:01:00,Excel,Business,60,65,38
+2025-08-05 17:02:00,Games,Games,60,8,44
+2025-08-05 17:03:00,Microsoft Teams,Communication,60,37,16
+2025-08-05 17:04:00,Calculator,Utilities,60,34,18
+2025-08-05 17:05:00,System Idle,Other,60,24,37
+2025-08-05 17:06:00,Slack,Communication,60,75,19
+2025-08-05 17:07:00,Visual Studio Code,Software Development,60,69,26
+2025-08-05 17:08:00,Terminal,Utilities,60,41,36
+2025-08-05 17:09:00,Screensaver,Other,60,16,22
+2025-08-05 17:10:00,System Idle,Other,60,0,0
+2025-08-05 17:11:00,System Idle,Other,60,6,40
+2025-08-05 17:12:00,Reddit,News & Opinion,60,13,43
+2025-08-05 17:13:00,Microsoft Word,Writing,60,52,22
+2025-08-05 17:14:00,Netflix,Video,60,29,38
+2025-08-05 17:15:00,Reddit,News & Opinion,60,9,21
+2025-08-05 17:16:00,Reddit,News & Opinion,60,31,40
+2025-08-05 17:17:00,Calculator,Utilities,60,74,30
+2025-08-05 17:18:00,Twitter,Social Media,60,7,42
+2025-08-05 17:19:00,System Idle,Other,60,6,29
+2025-08-05 17:20:00,Slack,Communication,60,32,25
+2025-08-05 17:21:00,Screensaver,Other,60,0,0
+2025-08-05 17:22:00,Screensaver,Other,60,0,0
+2025-08-05 17:23:00,Slack,Communication,60,48,26
+2025-08-05 17:24:00,System Idle,Other,60,0,0
+2025-08-05 17:25:00,Screensaver,Other,60,0,0
+2025-08-05 17:26:00,Gmail,Email,60,57,27
+2025-08-05 17:27:00,Games,Games,60,15,25
+2025-08-05 17:28:00,System Idle,Other,60,16,49
+2025-08-05 17:29:00,Instagram,Social Media,60,30,22
+2025-08-05 17:30:00,Netflix,Video,60,18,39
+2025-08-05 17:31:00,System Idle,Other,60,0,0
+2025-08-05 17:32:00,Reddit,News & Opinion,60,8,22
+2025-08-05 17:33:00,Microsoft Teams,Communication,60,49,29
+2025-08-05 17:34:00,Games,Games,60,10,42
+2025-08-05 17:35:00,System Idle,Other,60,6,43
+2025-08-05 17:36:00,Screensaver,Other,60,0,0
+2025-08-05 17:37:00,Games,Games,60,13,40
+2025-08-05 17:38:00,System Idle,Other,60,0,0
+2025-08-05 17:39:00,Terminal,Utilities,60,53,31
+2025-08-05 17:40:00,Twitter,Social Media,60,35,20
+2025-08-05 17:41:00,Calculator,Utilities,60,32,19
+2025-08-05 17:42:00,Gmail,Email,60,53,27
+2025-08-05 17:43:00,System Idle,Other,60,0,0
+2025-08-05 17:44:00,System Idle,Other,60,35,31
+2025-08-05 17:45:00,Netflix,Video,60,23,24
+2025-08-05 17:46:00,Games,Games,60,15,40
+2025-08-05 17:47:00,Microsoft Word,Writing,60,31,38
+2025-08-05 17:48:00,Terminal,Utilities,60,65,18
+2025-08-05 17:49:00,Microsoft Teams,Communication,60,75,29
+2025-08-05 17:50:00,Microsoft Teams,Communication,60,74,30
+2025-08-05 17:51:00,Excel,Business,60,34,29
+2025-08-05 17:52:00,Calculator,Utilities,60,35,40
+2025-08-05 17:53:00,Reddit,News & Opinion,60,26,31
+2025-08-05 17:54:00,Screensaver,Other,60,22,29
+2025-08-05 17:55:00,System Idle,Other,60,0,0
+2025-08-05 17:56:00,Twitter,Social Media,60,30,31
+2025-08-05 17:57:00,Netflix,Video,60,11,45
+2025-08-05 17:58:00,Calculator,Utilities,60,31,26
+2025-08-05 17:59:00,Reddit,News & Opinion,60,19,45
