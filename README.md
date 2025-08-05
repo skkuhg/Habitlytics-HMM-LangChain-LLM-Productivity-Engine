@@ -104,8 +104,8 @@ Habitlytics HMM Productivity Engine/
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/skkuhg/Habitlytics-HMM-Productivity-Engine.git
-cd Habitlytics-HMM-Productivity-Engine
+git clone https://github.com/skkuhg/Habitlytics-HMM-LangChain-LLM-Productivity-Engine.git
+cd Habitlytics-HMM-LangChain-LLM-Productivity-Engine
 
 # Create virtual environment
 python -m venv venv
