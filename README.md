@@ -39,7 +39,7 @@ The system treats productivity as a series of hidden states that can be inferred
 ## 🏗️ Architecture
 
 ```
-Habitlytics HMM Productivity Engine/
+Habitlytics-HMM-LangChain-LLM-Productivity-Engine/
 ├── 📁 data/                          # Raw and processed datasets
 │   ├── raw/                         # Original data sources
 │   ├── processed/                   # Cleaned and transformed data
